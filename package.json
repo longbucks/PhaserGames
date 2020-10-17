@@ -1,0 +1,19 @@
+{
+  "name": "phasergames",
+  "version": "1.0.0",
+  "description": "Make games using phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longbucks/PhaserGames.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longbucks/PhaserGames/issues"
+  },
+  "homepage": "https://github.com/longbucks/PhaserGames#readme"
+}
